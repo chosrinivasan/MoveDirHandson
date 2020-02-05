@@ -1,0 +1,6 @@
+INFO  2018-08-04 12:52:52,314 DatabaseProvider:successMessage - SUCCESS: Got parameters. Using configuration type JDBC_PROPERTIES
+INFO  2018-08-04 12:52:52,317 DatabaseProvider:successMessage - -- Using JDBC driver class: com.mysql.jdbc.Driver
+INFO  2018-08-04 12:52:52,317 DatabaseProvider:successMessage - -- Using JDBC connection URL: jdbc:mysql://localhost:3306/rollerdb?autoReconnect=true&useUnicode=true&characterEncoding=utf-8&mysqlEncoding=utf8
+INFO  2018-08-04 12:52:52,318 DatabaseProvider:successMessage - -- Using JDBC username: scott
+INFO  2018-08-04 12:52:52,318 DatabaseProvider:successMessage - -- Using JDBC password: [hidden]
+ERROR 2018-08-04 12:52:52,319 DatabaseProvider:errorMessage - ERROR: cannot load JDBC driver class [com.mysql.jdbc.Driver]. Likely problem: JDBC driver jar missing from server classpath.
